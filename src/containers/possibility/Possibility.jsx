@@ -1,10 +1,10 @@
 import React from 'react'
-import './Possibilty.css'
+import './possibility.css'
 
 const Possibilty = () => {
   return (
     <div>
-      
+      Possibility
     </div>
   )
 }
